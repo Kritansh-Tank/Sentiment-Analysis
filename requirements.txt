@@ -1,5 +1,5 @@
-opencv-python==4.5.3.56
-numpy==1.20.3
-pillow==8.2.0
+opencv-python==4.10.0.84
+numpy==2.0.1
+pillow==10.4.0
 tensorflow~=2.2.0
 Keras~=2.3.1
