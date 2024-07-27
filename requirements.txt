@@ -1,5 +1,5 @@
 opencv-python==4.10.0.84
-numpy==2.0.1
+numpy==1.23.5  # A version compatible with both TensorFlow and opencv-python
 pillow==10.4.0
-tensorflow~=2.2.0
-Keras~=2.3.1
+tensorflow==2.15.1
+keras==2.15.0  # Ensure compatibility with TensorFlow version
