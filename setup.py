@@ -9,9 +9,9 @@ VERSION = "{}.{}.{}".format(MAJOR_VERSION, MINOR_VERSION, MICRO_VERSION)
 setup(name='face',
       version=VERSION,
       description="A Facial-Recognition-based Sentiment Classifier System",
-      author='Kritansh Tank',
-      url='https://github.com/Kritansh-Tank/Sentiment-Analysis',
-      author_email='tankkritansh088@gmail.com',
+      author='Prannaya Gupta',
+      url='https://github.com/ThePyProgrammer/face-tkinter',
+      author_email='prannayagupta@programmer.net',
       install_requires=[
           'numpy', 'opencv-python', 'pillow', 'tensorflow', 'Keras'
       ],
