@@ -1,11 +1,11 @@
 import streamlit as st
 from facetk import SentimentalWebcam
 
-
 def run_sentiment_analysis():
-    SentimentalWebcam()
+    st.title("Sentiment Analysis")
 
+    if st.button("Start Analysis"):
+        SentimentalWebcam()
 
-st.title("Real-Time Sentiment Analysis")
-if st.button("Start Analysis"):
+if __name__ == "__main__":
     run_sentiment_analysis()
