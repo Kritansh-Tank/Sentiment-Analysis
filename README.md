@@ -38,3 +38,7 @@ or
 ```sh
 /path/to/python/interpreter/python.exe main.py
 ```
+
+## License
+
+MIT License - See LICENSE file for details
